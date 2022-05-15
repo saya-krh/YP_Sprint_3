@@ -4,22 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67543dca-448d-4b74-8682-5fa877b15b06" name="Changes" comment="develop: second commit">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sprint_3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/client/Courier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/client/Courier.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/client/CourierClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/client/CourierGenerator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/client/CourierLogin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/client/Order.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/client/OrderClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/client/ScooterRestClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/CreateOrderTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/LoginCourierTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/OrderListTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/RegisterCourierTest.class" afterDir="false" />
+    <list default="true" id="67543dca-448d-4b74-8682-5fa877b15b06" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/YP_Sprint_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/client/CourierClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/client/CourierGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/client/CourierLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/client/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/client/OrderClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/client/ScooterRestClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CreateOrderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LoginCourierTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/OrderListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RegisterCourierTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/client/Courier.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/client/Courier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/client/CourierClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/client/CourierClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/client/CourierGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/client/CourierGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/client/CourierLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/client/CourierLogin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/client/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/client/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/client/OrderClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/client/OrderClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/client/ScooterRestClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/client/ScooterRestClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CreateOrderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CreateOrderTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/LoginCourierTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LoginCourierTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/OrderListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/OrderListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/RegisterCourierTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/RegisterCourierTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +64,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -61,13 +72,34 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/main/java/client" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.CreateOrderTest">
     <configuration name="CreateOrderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Sprint_3" />
+      <module name="YP_Sprint_3" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="CreateOrderTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginCourierTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="YP_Sprint_3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginCourierTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="YP_Sprint_3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OrderListTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,6 +108,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.CreateOrderTest" />
+        <item itemvalue="JUnit.LoginCourierTest" />
+        <item itemvalue="JUnit.OrderListTest" />
         <item itemvalue="JUnit.CreateOrderTest" />
       </list>
     </recent_temporary>
@@ -96,7 +130,14 @@
       <option name="presentableId" value="Default" />
       <updated>1652615757005</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add tests">
+      <created>1652636090527</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652636090527</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,6 +166,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="develop: second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="develop: second commit" />
+    <MESSAGE value="add tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="add tests" />
   </component>
 </project>
