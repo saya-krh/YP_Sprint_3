@@ -29,7 +29,9 @@ public class LoginCourierTest {
 
     @After
     public void tearDown(){
-        courierClient.deleteCourier(courierId);
+        if(courierId != 0){
+            courierClient.deleteCourier(courierId);
+        }
     }
 
     @Test
@@ -56,7 +58,7 @@ public class LoginCourierTest {
 
     @Test
     @DisplayName("Не заполнив Пароль, курьер не авторизуется")
-    public void courierCantLoginWithoutPassword(){
+    public void courierCantLoginWithoutPassword() {
         ValidatableResponse loginResponse = courierClient.login(new CourierLogin(courier.getLogin(), ""));
         int statusCode = loginResponse.extract().statusCode();
         String message = loginResponse.extract().path("message");

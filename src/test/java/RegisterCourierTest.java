@@ -48,7 +48,7 @@ public class RegisterCourierTest {
         String result = createResponse.extract().path("message");
 
         assertThat("Can't create courier", statusCode, equalTo(SC_BAD_REQUEST));
-        assertThat(result, equalTo("Привет"));
+        assertThat(result, equalTo("Недостаточно данных для создания учетной записи"));
     }
 
     @Test

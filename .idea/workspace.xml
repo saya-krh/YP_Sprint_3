@@ -5,27 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67543dca-448d-4b74-8682-5fa877b15b06" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/YP_Sprint_3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/client/CourierClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/client/CourierGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/client/CourierLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/client/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/client/OrderClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/client/ScooterRestClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CreateOrderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LoginCourierTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/OrderListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RegisterCourierTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/client/Courier.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/client/Courier.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/client/CourierClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/client/CourierClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/client/CourierGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/client/CourierGenerator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/client/CourierLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/client/CourierLogin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/client/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/client/Order.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/client/OrderClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/client/OrderClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/client/ScooterRestClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/client/ScooterRestClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LoginCourierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LoginCourierTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/RegisterCourierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RegisterCourierTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/CreateOrderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CreateOrderTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/LoginCourierTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LoginCourierTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/OrderListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/OrderListTest.class" afterDir="false" />
@@ -76,7 +60,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/client" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CreateOrderTest">
+  <component name="RunManager" selected="JUnit.LoginCourierTest">
     <configuration name="CreateOrderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="YP_Sprint_3" />
       <option name="PACKAGE_NAME" value="" />
@@ -107,8 +91,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CreateOrderTest" />
         <item itemvalue="JUnit.LoginCourierTest" />
+        <item itemvalue="JUnit.CreateOrderTest" />
         <item itemvalue="JUnit.OrderListTest" />
         <item itemvalue="JUnit.CreateOrderTest" />
       </list>
